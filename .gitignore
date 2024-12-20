@@ -1,0 +1,10 @@
+"virEnv/" 
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables
+.env
+
+# Ignore log files
+*.log
